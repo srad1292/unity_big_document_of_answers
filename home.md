@@ -9,10 +9,18 @@ This markdown documentation serves as a place for me to collect every question I
 * [Animation](./Animation/0_animation.md)
 * [Audio](./Audio/0_audio.md)
 * [Camera](./Camera/0_camera.md)
+* [Data Persistence](./Data_Persistence/0_data_persistence.md)
 * [Materials](./Materials/0_materials.md)
 * [Movement](./Movement/0_movement.md)
+* [Persistence](./Persistence/0_persistence.md)
 * [Physics](./Physics/0_physics.md)
 * [Shaders](./Shaders/0_shaders.md)
 * [Sprites](./Sprites/0_sprites.md)
+* [Testing](./Testing/0_testing.md)
 * [Tile Maps](./Tile_Maps/0_tile_maps.md)
+* [UI](./UI/0_ui.md)
 * [Visual Effects](./Visual_Effects/0_visual_effects.md)
+
+## 3. Things I Want to Learn/Build
+
+* [Things to learn/build](./learn/0_learn.md)
