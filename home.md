@@ -10,6 +10,7 @@ This markdown documentation serves as a place for me to collect every question I
 * [Audio](./Audio/0_audio.md)
 * [Camera](./Camera/0_camera.md)
 * [Data Persistence](./Data_Persistence/0_data_persistence.md)
+* [Game Objects](./Game_Objects/0_game_objects.md)
 * [Materials](./Materials/0_materials.md)
 * [Movement](./Movement/0_movement.md)
 * [Persistence](./Persistence/0_persistence.md)
@@ -18,6 +19,7 @@ This markdown documentation serves as a place for me to collect every question I
 * [Sprites](./Sprites/0_sprites.md)
 * [Testing](./Testing/0_testing.md)
 * [Tile Maps](./Tile_Maps/0_tile_maps.md)
+* [Time](./Time/0_time.md)
 * [UI](./UI/0_ui.md)
 * [Visual Effects](./Visual_Effects/0_visual_effects.md)
 

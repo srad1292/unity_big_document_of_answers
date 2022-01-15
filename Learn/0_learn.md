@@ -21,6 +21,7 @@ I will just have a giant list of items here of things I want to learn or build a
 * [Animation] Learn how to create a sprite sheet for animation
 * [Animation] Learn how to make sure animation will work with different customizable layers like having your character be able to switch hats/shirts/pants/weapons/etc
 * [Audio] Understand audio format to use and why
+* [Audio/Input] How to play a sound while input is pressed and stop as soon as it's let go or maybe trail off once it's let go.  
 * [Camera] How to allow camera to move some vertically or horizontally if all of game content doesn't fit on camera for certain screen size
 * [Data Persistence] Select which character you want to play is in a session
 * [Data Persistence] How to know what data to serialize and how to do so
