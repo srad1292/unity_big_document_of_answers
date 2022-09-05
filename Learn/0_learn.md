@@ -39,6 +39,8 @@ I will just have a giant list of items here of things I want to learn or build a
 * [UI] Have a circle wheel with 4 different options of images
 * [UI] Have a circle wheel with a customizable amount of items
 * [UI] Have a circle wheel that you can show/hide on some kind of input
+* [UI] Display a pause menu that covers whole screen and hides game
+* [UI] Display a pause menu that still shows game behind it but maybe a bit fuzzy
 
 ---
 Back Links

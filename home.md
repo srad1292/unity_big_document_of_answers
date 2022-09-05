@@ -10,6 +10,7 @@ This markdown documentation serves as a place for me to collect every question I
 * [Audio](./Audio/0_audio.md)
 * [Camera](./Camera/0_camera.md)
 * [Data Persistence](./Data_Persistence/0_data_persistence.md)
+* [Errors](./Errors/0_errors.md)
 * [Game Objects](./Game_Objects/0_game_objects.md)
 * [Materials](./Materials/0_materials.md)
 * [Movement](./Movement/0_movement.md)
@@ -21,6 +22,7 @@ This markdown documentation serves as a place for me to collect every question I
 * [Tile Maps](./Tile_Maps/0_tile_maps.md)
 * [Time](./Time/0_time.md)
 * [UI](./UI/0_ui.md)
+* [Version Control](./Version_Control/0_version_control.md)
 * [Visual Effects](./Visual_Effects/0_visual_effects.md)
 
 ## 3. Things I Want to Learn/Build
