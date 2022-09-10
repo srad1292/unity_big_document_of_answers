@@ -3,4 +3,4 @@
 ---
 Back Links
 
-* [Home](../home.md)
+* [Home](../index.md)

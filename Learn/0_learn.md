@@ -45,4 +45,4 @@ I will just have a giant list of items here of things I want to learn or build a
 ---
 Back Links
 
-* [Home](../home.md)
+* [Home](../index.md)
